@@ -1,0 +1,81 @@
+﻿@charset "UTF-8";
+.hero {
+  background: url("http://www.pdgm.com/getmedia/49986e29-2fba-4629-8a09-591205b91ed4/Library_1400_800.jpg.aspx") no-repeat center center;
+  background-size: cover;
+  height: 50vh;
+  overflow: hidden;
+}
+
+.hero h1 {
+  background: center;
+  background-size: auto;
+  background-color: #292c2f;
+  height: auto;
+  width: auto;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 10%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.hero h4 {
+  background: left;
+  background-size: auto;
+  background-color: #292c2f;
+  height: auto;
+  width: 200px;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 15%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.hero h3 {
+  height: auto;
+  width: auto;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 25%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.footer {
+  background-color: #292c2f;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 4rem;
+}
+
+.footer p.slogan {
+  color: #8d9093;
+  font-size: 1.8rem;
+  margin: 0 0 1rem;
+}
+
+.footer p.copywrite {
+  color: #8f9296;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.footer .links a {
+  list-style: none;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+}
+
+/*# sourceMappingURL=StyleSheet.css.map */
